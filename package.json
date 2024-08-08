@@ -1,0 +1,23 @@
+{
+  "name": "norwa",
+  "version": "1.0.0",
+  "description": "Water is life",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wexox27/master-norwa-africa.git"
+  },
+  "keywords": [
+    "Norwa",
+    "Africa"
+  ],
+  "author": "Devartist",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wexox27/master-norwa-africa/issues"
+  },
+  "homepage": "https://github.com/Wexox27/master-norwa-africa#readme"
+}
